@@ -1,5 +1,5 @@
 package gitApp
 
-func testFunc(s string) string {
+func TestFunc(s string) string {
 	return "The string is " + s
 }
